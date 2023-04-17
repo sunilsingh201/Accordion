@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sunilsingh201/Accordion.git/static/css/main.1d5446da.css",
-    "main.js": "/sunilsingh201/Accordion.git/static/js/main.a9e72cd3.js",
-    "static/js/787.4b58934d.chunk.js": "/sunilsingh201/Accordion.git/static/js/787.4b58934d.chunk.js",
-    "index.html": "/sunilsingh201/Accordion.git/index.html",
-    "main.1d5446da.css.map": "/sunilsingh201/Accordion.git/static/css/main.1d5446da.css.map",
-    "main.a9e72cd3.js.map": "/sunilsingh201/Accordion.git/static/js/main.a9e72cd3.js.map",
-    "787.4b58934d.chunk.js.map": "/sunilsingh201/Accordion.git/static/js/787.4b58934d.chunk.js.map"
+    "main.css": "/Accordion/static/css/main.1d5446da.css",
+    "main.js": "/Accordion/static/js/main.f0cc47ce.js",
+    "static/js/787.4b58934d.chunk.js": "/Accordion/static/js/787.4b58934d.chunk.js",
+    "index.html": "/Accordion/index.html",
+    "main.1d5446da.css.map": "/Accordion/static/css/main.1d5446da.css.map",
+    "main.f0cc47ce.js.map": "/Accordion/static/js/main.f0cc47ce.js.map",
+    "787.4b58934d.chunk.js.map": "/Accordion/static/js/787.4b58934d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d5446da.css",
-    "static/js/main.a9e72cd3.js"
+    "static/js/main.f0cc47ce.js"
   ]
 }

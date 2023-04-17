@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Accordion/static/css/main.1d5446da.css",
-    "main.js": "/Accordion/static/js/main.f0cc47ce.js",
-    "static/js/787.4b58934d.chunk.js": "/Accordion/static/js/787.4b58934d.chunk.js",
-    "index.html": "/Accordion/index.html",
-    "main.1d5446da.css.map": "/Accordion/static/css/main.1d5446da.css.map",
-    "main.f0cc47ce.js.map": "/Accordion/static/js/main.f0cc47ce.js.map",
-    "787.4b58934d.chunk.js.map": "/Accordion/static/js/787.4b58934d.chunk.js.map"
+    "main.css": "/Accordion_React/static/css/main.1d5446da.css",
+    "main.js": "/Accordion_React/static/js/main.f88c2b5b.js",
+    "static/js/787.4b58934d.chunk.js": "/Accordion_React/static/js/787.4b58934d.chunk.js",
+    "index.html": "/Accordion_React/index.html",
+    "main.1d5446da.css.map": "/Accordion_React/static/css/main.1d5446da.css.map",
+    "main.f88c2b5b.js.map": "/Accordion_React/static/js/main.f88c2b5b.js.map",
+    "787.4b58934d.chunk.js.map": "/Accordion_React/static/js/787.4b58934d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d5446da.css",
-    "static/js/main.f0cc47ce.js"
+    "static/js/main.f88c2b5b.js"
   ]
 }
